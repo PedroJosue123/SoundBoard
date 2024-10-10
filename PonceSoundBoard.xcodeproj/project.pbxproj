@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD81F22A2CB738B50003C162 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD81F2292CB738B50003C162 /* SoundViewController.swift */; };
 		BDFC9FBD2CB72A9200F35895 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDFC9FBC2CB72A9200F35895 /* AppDelegate.swift */; };
 		BDFC9FBF2CB72A9200F35895 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDFC9FBE2CB72A9200F35895 /* SceneDelegate.swift */; };
 		BDFC9FC12CB72A9200F35895 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDFC9FC02CB72A9200F35895 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD81F2292CB738B50003C162 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 		BDFC9FB92CB72A9200F35895 /* PonceSoundBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PonceSoundBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDFC9FBC2CB72A9200F35895 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDFC9FBE2CB72A9200F35895 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				BDFC9FBE2CB72A9200F35895 /* SceneDelegate.swift */,
 				BDFC9FC02CB72A9200F35895 /* ViewController.swift */,
 				BDFC9FC22CB72A9200F35895 /* Main.storyboard */,
+				BD81F2292CB738B50003C162 /* SoundViewController.swift */,
 				BDFC9FC82CB72A9C00F35895 /* Assets.xcassets */,
 				BDFC9FCA2CB72A9C00F35895 /* LaunchScreen.storyboard */,
 				BDFC9FCD2CB72A9C00F35895 /* Info.plist */,
@@ -145,6 +148,7 @@
 				BDFC9FBD2CB72A9200F35895 /* AppDelegate.swift in Sources */,
 				BDFC9FC72CB72A9200F35895 /* PonceSoundBoard.xcdatamodeld in Sources */,
 				BDFC9FBF2CB72A9200F35895 /* SceneDelegate.swift in Sources */,
+				BD81F22A2CB738B50003C162 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
